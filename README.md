@@ -1,4 +1,3 @@
-## Hey 👋, This is Vaibhav Acharya
 Hi, I'm Vaibhav — a Full Stack Developer at Farmers Insurance working on [Mobile App](https://www.farmers.com/mobile). I live in Woodland Hills, CA 🇺🇸 and my native place is in India 🇮🇳. 🙌 I'm a huge nerd/geek, tech enthusiast, soccer fan, and aspiring cosmologist.🌎 💕</p>
 
 ## My values
